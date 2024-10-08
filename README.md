@@ -1,6 +1,3 @@
-# dart-cli-weather-forecast
-This is a practice project for reading CSV Files and API in Dart using openweathermap.org API and a CSV file for the list of cities
-
 # src/worldcities.csv
 This is basic/free data from https://simplemaps.com/data/world-cities, you can check the website for the Pro and Comprehensive version
 
